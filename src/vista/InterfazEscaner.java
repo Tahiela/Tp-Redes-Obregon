@@ -1,7 +1,7 @@
-package views;
+package vista;
 
 import model.Dispositivo;
-import services.ScannerRedLogic;
+import servicios.ScannerRedLogic;
 import utils.ValidacionesIP;
 
 import javax.swing.*;
